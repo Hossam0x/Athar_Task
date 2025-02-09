@@ -1,16 +1,56 @@
-# athar_task
+# 📱 Athar Task - Flutter Chat App
 
-A new Flutter project.
+A feature-rich chat application built using Flutter. This app includes real-time messaging with text and voice messages, background customization, typing indicators, and an enhanced UI experience.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 💬 **Real-time Chat**: Send and receive text and voice messages instantly.
+- 🎤 **Voice Messages**: Record and send voice messages seamlessly.
+- 🎨 **UI Customization**: Change the background of the chat UI to personalize your experience.
+- ✍️ **Typing Indicator**: Know when the other user is typing.
+- 📝 **Chat Box**: Responsive and user-friendly chat input area.
+- 🖼️ **Background Change Function**: Allows users to set a custom chat background.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 ِApplication alive
+![image](https://github.com/user-attachments/assets/cc8505ec-b840-42d2-99bd-e53fb9f99f5d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📌 Prerequisites
+
+- Ensure you have Flutter installed. [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
+- Set up Firebase for authentication and database features.
+
+### 🔧 Installation
+
+# Clone the repository
+`` bash
+https://github.com/Hossam0x/Athar_Task
+```
+
+# Navigate to the project directory
+cd chat-app
+
+## 📦 Dependencies
+
+Ensure you have the following dependencies in your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: latest_version
+  firebase_auth: latest_version
+  cloud_firestore: latest_version
+  flutter_sound: latest_version
+  provider: latest_version
+```
+
+## 🤝 Contribution
+
+Feel free to contribute to this project by forking the repository and submitting pull requests.
+
+## 📩 For any inquiries, please contact [hossamdif17@gmail.com]
+
+
