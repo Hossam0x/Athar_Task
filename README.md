@@ -53,5 +53,5 @@ dependencies:
 Feel free to contribute to this project by forking the repository and submitting pull requests.
 
 ## 📩 For any inquiries, please contact
-**🔗 LinkedIn:** (hossam-dif)[https://www.linkedin.com/in/hossam-dif/]
-**👩‍💻 Email:** (hossam dif)[hossamdif17@gmail.com]
+**🔗 LinkedIn:** [hossam-dif](https://www.linkedin.com/in/hossam-dif/)
+**👩‍💻 Email:** [hossam dif](hossamdif17@gmail.com)
