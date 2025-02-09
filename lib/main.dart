@@ -34,9 +34,8 @@ Future<void> setupFirebase() async {
 
 Future<void> setupSupabase() async {
   await Supabase.initialize(
-    url: 'https://pjoqyywyseqmkqnkletd.supabase.co', 
-    anonKey:
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBqb3F5eXd5c2VxbWtxbmtsZXRkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzg5Mjk1OTksImV4cCI6MjA1NDUwNTU5OX0.GNgASEiJUEd4PzBsFJVMNAF129C3PSwXShD2pzQOX5o', // ✅ استبدلها بمفتاح الـ API الخاص بك
+    url: '', 
+    anonKey:''
   );
 }
 
