@@ -24,9 +24,10 @@ A feature-rich chat application built using Flutter. This app includes real-time
 ### 🔧 Installation
 
 # Clone the repository
+
 `` bash
 https://github.com/Hossam0x/Athar_Task
-```
+``
 
 # Navigate to the project directory
 cd chat-app
